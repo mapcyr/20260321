@@ -1,2 +1,4 @@
+add.远程
+open main
 add.远程改--分支
 
